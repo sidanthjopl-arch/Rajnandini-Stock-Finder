@@ -1,0 +1,1 @@
+# Rajnandini Stock Finder\nUpload to GitHub Pages and update imageSheetUrl.
